@@ -25,11 +25,14 @@ body {
     bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
-    background: white;
+    background: rgba(255, 255, 255, 0.797);
     padding: 10px;
     border: 1px solid #ccc;
-    width: 300px;
+    width: 280px;
     z-index: 1000;
     display: none;
     border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
 }
